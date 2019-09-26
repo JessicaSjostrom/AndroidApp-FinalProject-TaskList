@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="action_add_sample_data">Add sample data</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="delete_all">Delete all notes</string>
+    <string name="new_note">New note</string>
+    <string name="edit_note">Edit note</string>
+    <string name="delete">Delete</string>
+    <string name="about_string">About</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_description">Enter description</string>
+    <string name="description_view">DescriptionView</string>
+    <string name="date_label">Due Date</string>
+    <string name="edit_date">Edit Date</string>
+    <string name="confirm_message">Do you really want to delete this item?</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="today_date">April 15, 2019</string>
+</resources>
